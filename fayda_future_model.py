@@ -9,7 +9,7 @@ import os
 
 # Step 2: Set up OpenAI API key
 # Note: Replace 'your-api-key' with your actual OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'your-api-key'
 
 # Step 3: Define the function to load data and process future-state estimation
 
